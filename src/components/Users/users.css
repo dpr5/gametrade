@@ -1,0 +1,27 @@
+.users-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.users-nav-content {
+  color: black;
+  text-decoration: none;
+  margin-bottom: 10px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.users-navbar {
+  display: flex;
+  flex-direction: column;
+
+  background-color: grey;
+  list-style-type: none;
+  height: 100%;
+  width: 300px;
+}
+
+.users-content {
+  margin-left: 10px;
+  background-color: red;
+}

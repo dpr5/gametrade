@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  background-color: black;
+}
+
+.nav-content {
+  color: white;
+  cursor: pointer;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-evenly;
+}
